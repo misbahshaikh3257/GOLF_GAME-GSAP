@@ -1,0 +1,1 @@
+This project showcases an animated website built using GSAP (GreenSock Animation Platform). It includes advanced animations like scroll effects, transformations, scrubbing, and timeline-based animations to create a smooth and engaging user experience.
